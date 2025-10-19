@@ -1,4 +1,4 @@
-# Skills (Technical README)
+# Skills 
 
 Résumé
 Ce dépôt contient plusieurs petits outils et démonstrations liés à la cybersécurité / développement web : une petite application Flask d'authentification, un script d'encryption démonstratif et un script de web scraping utilisant Selenium. Ce README technique décrit le rôle de chaque fichier, comment les exécuter, dépendances, et recommandations d'amélioration / sécurité.
