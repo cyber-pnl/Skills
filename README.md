@@ -181,9 +181,6 @@ Contact / auteur
 - Repository : cyber-pnl/Skills
 - Auteur : @cyber-pnl (GitHub)
 
-Licence
-- À préciser (ajouter un fichier LICENSE). Par défaut, ajoutez MIT si vous souhaitez autoriser la réutilisation.
-
 Si vous voulez, je peux :
 - Générer automatiquement un requirements.txt et un .gitignore.
 - Réécrire web_scrapping.py pour accepter des arguments (URL, sorties) et exécuter Firefox en headless.
